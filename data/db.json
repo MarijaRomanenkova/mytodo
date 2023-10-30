@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": 2,
+      "title": "Make marketing email",
+      "details": "Lorem ipsum",
+      "complete": false
+    },
+    {
+      "title": "Update the Promo Links",
+      "details": "Make sure all the promo links and coupon codes are up to date!!!!!",
+      "complete": true,
+      "id": 5231
+    },
+    {
+      "title": "tidy up",
+      "details": "home sweet home needs cleaning ",
+      "complete": false,
+      "id": 2153
+    }
+  ]
+}
